@@ -10,7 +10,7 @@
 ## 作業繳交
 
 1. 完成作業後，將 `index.Rmd` 輸出成 `index.html` (記得一定要 `knit` 成 HTML 檔喔)
-1. 至 GitHub Desktop '**commit**' 整份資料夾內的檔案，並 '**push**' 至 GitHub
+1. 至 GitHub Desktop '**commit**' 整份資料夾內的檔案 (**一定要有 `index.html`**)，並 '**push**' 至 GitHub
 1. 至 `https://github.com/rlads2019/hw4-<你的 GitHub 帳號>` 確認作業成功上傳
 
 
